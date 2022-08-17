@@ -16,5 +16,8 @@ Well your code should look something like this **AAAAA-BBBBB-CCCCC-11111-22222**
 ## **Why does it close instantly?**
 Well, it closes because it's done. You should have a file on your desktop which is called Key.txt or just Key. Open the file and there is your key
 
+## **There are two executable files, which one should I use?**
+Well the choice is yours, its the same result either way so just choose one
+
 ## **Why is ***"OA3xOriginalProductKey"*** in my Key.txt file?**
 🤷‍♂️Don't know, Don't Care
