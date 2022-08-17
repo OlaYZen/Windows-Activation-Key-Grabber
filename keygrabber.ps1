@@ -1,0 +1,1 @@
+wmic path SoftwareLicensingService get OA3xOriginalProductKey | Out-File -FilePath C:\Users\$env:UserName\Desktop\Key.txt
