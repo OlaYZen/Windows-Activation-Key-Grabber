@@ -18,6 +18,7 @@ Well, it closes because it's done. You should have a file on your desktop which 
 
 ## **There are two executable files, which one should I use?**
 Well the choice is yours, its the same result either way so just choose one
+but if you use Windows 8 and under choose the one ending with .bat
 
 ## **Why is ***"OA3xOriginalProductKey"*** in my Key.txt file?**
 🤷‍♂️Don't know, Don't Care
