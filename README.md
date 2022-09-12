@@ -13,7 +13,7 @@ If you don't trust me, look through the code yourself, its only two lines :/
 ## **What does the key look like?**
 It looks like this, Blurred out for obvious reasons
 
-<img src="https://github.com/OlaYZen/Windows-Activation-Key-Grabber/blob/main/image.png"/>
+<img src="https://github.com/OlaYZen/Windows-Activation-Key-Grabber/blob/main/newimage.png"/>
 
 ## **Why does it close instantly?**
 Well, it closes because it's done. You should have a file on your desktop which is called Key.txt or just Key. Open the file and there is your key
