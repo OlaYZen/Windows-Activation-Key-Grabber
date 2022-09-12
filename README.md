@@ -8,7 +8,7 @@ Download a key grabber and run it with Elevated privileges, should only take abo
 Well if you want to install Windows 10 on a laptop or another desktop you can probably still use the same code on both pcs, and you don't need to pay Mr bill gates more money
 
 ## **Is it Safe**
-If you don't trust me, look through the code yourself, its only two lines :/
+If you don't trust me, just look at the code yourself and figure out if it is safe or not
 
 ## **What does the key look like?**
 It looks like this, Blurred out for obvious reasons
