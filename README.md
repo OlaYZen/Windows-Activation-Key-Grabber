@@ -11,7 +11,10 @@ Well if you want to install Windows 10 on a laptop or another desktop you can pr
 If you don't trust me, just look at the code yourself and figure out if it is safe or not
 
 ## **What does the key look like?**
-It looks like this, Blurred out for obvious reasons. (Example: 1111-2222-AAAA-BBBB)
+It looks like this, Blurred out for obvious reasons. Example:
+```
+1111-2222-AAAA-BBBB
+```
 
 
 <img src="https://github.com/OlaYZen/Windows-Activation-Key-Grabber/blob/main/newimage.png"/>
